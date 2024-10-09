@@ -1,0 +1,5 @@
+# Getting Started: Clean Architecture in .NET
+
+Clean Architecture is a highly sought-after software architecture and solution organization methodology with a solid reputation for its effectiveness. Its structured approach offers clear guidelines and rules that facilitate the development of robust solutions and enable immediate success. Nevertheless, understanding and implementing Clean Architecture can be overwhelming, particularly for those without prior experience. Dometrain offers a solution to this challenge. In this comprehensive course, Amichai Mantinband, a Software Engineer at Microsoft, provides expert guidance on Clean Architecture, breaking down its principles and rules into easily digestible segments backed by real-world examples. Embark on your Clean Architecture journey today with Dometrain! 
+
+[Detail](https://eduitfree.com/courses/getting-started-clean-architecture-in-net)
